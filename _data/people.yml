@@ -1,10 +1,9 @@
 instructors:
+  - name: Dr. 
+    profile_pic: /_images/pp/p.png
   - name: Milad Vazan
     profile_pic: /_images/pp/profile.png
     webpage: https://miladai.ir
-    bio: |
-      **Shahid Beheshti University**  
-      Computer Science - Soft Computing and Artificial Intelligence  
-      - Ph.D. (2023 - 2027)  
-      - Supervisor: **Dr. Kourosh Parand**  
-      - Cumulative Grade: **18.94**/20
+teaching_assistants:
+  - name: H
+    profile_pic: /_images/pp/potter.jpg
