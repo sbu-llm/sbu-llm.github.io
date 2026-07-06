@@ -24,10 +24,6 @@ items:
   name: Materials
   icon_class: fas fa-book
 
-- url: /exams/
-  name: exams
-  icon_class: fas fa-book-reader
-
 - url: /schedule/
   name: Schedule
   icon_class: fas fa-calendar-alt
