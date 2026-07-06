@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /Syllabus/
 ---
 
-# Course Syllabus: Expert Systems (Engineering for Large Language Models)
+#Expert Systems (Engineering for Large Language Models)
 
 **Level:** Undergraduate  
 **Prerequisites:** Python Programming, Basic Machine Learning Concepts  
@@ -164,36 +164,15 @@ By the end of this course, students will be able to:
 
 | Assessment Component | Grade | Description |
 |----------------------|-------|-------------|
-| Attendance & Active Participation | 1 point | Regular class attendance and participation in scientific discussions and Q&A |
-| Practical Assignments | 8 points | 4 to 6 practical exercises including implementation of RAG systems, intelligent agents, fine-tuning, and working with vector databases |
+| Attendance & Active Participation | 2 point | Regular class attendance and participation in scientific discussions and Q&A |
+| Practical Assignments | 6 points | 4 to 6 practical exercises including implementation of RAG systems, intelligent agents, fine-tuning, and working with vector databases |
 | Final Project with Report | 9 points | Comprehensive end-of-term project |
-| Final Examination | 2 points | Comprehensive final exam covering theoretical and analytical concepts |
+| Final Examination | 3 points | Comprehensive final exam covering theoretical and analytical concepts |
 
 ---
 
 *Total: 20 points*
 
-
-
-
-## **Homework Assignments**
-
-
-
-
-
-## **Exams**
-
-The course will include **two exams**. Both exams will assess the required readings and topics covered in class. The first exam will be an "in-class" [midterm](https://dbcs.ir//exams), while the second will be a [final exam](https://dbcs.ir//exams) scheduled during the University's final examination period at the end of the semester.
-
-
-
-# **Grading**
-- Class attendance and participation: **2** points 
-- Homeworks: **5** points
-- Final project: **5** points 
-- Midterm exam: **3** points
-- Final exam: **5** points 
 
 
 ## **Seeking Assistance**
@@ -218,9 +197,6 @@ To successfully participate in this course, students are expected to prepare the
 
 
  
-
-
-
 ## **Collaboration Policy**
 
 You are encouraged to discuss the content of this course with anyone you like; however, it is essential to **maintain academic integrity** in your work. All homework assignments, projects, and exams must be completed independently, meaning you are not permitted to copy any part of another student’s solution, collaborate with others on your assignments, or use solutions from unauthorized sources, including the Internet. **Therefore, the solution you submit for each assignment must be solely your own, reflecting your understanding and effort.**
