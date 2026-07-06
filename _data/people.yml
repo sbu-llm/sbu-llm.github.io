@@ -5,5 +5,7 @@ instructors:
     profile_pic: /_images/pp/profile.png
     webpage: https://miladai.ir
 teaching_assistants:
-  - name: H
+  - name: A
+    profile_pic: /_images/pp/potter.jpg
+  - name: B
     profile_pic: /_images/pp/potter.jpg
