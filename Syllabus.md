@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /Syllabus/
 ---
 
-#Expert Systems (Engineering for Large Language Models)
+# Expert Systems (Engineering for Large Language Models)
 
 **Level:** Undergraduate  
 **Prerequisites:** Python Programming, Basic Machine Learning Concepts  
