@@ -45,7 +45,7 @@ By the end of this course, students will be able to:
 
 **Objective:** Understanding the historical trajectory and differences between AI paradigms.
 
-#### Evolution of Artificial Intelligence
+> #### Evolution of Artificial Intelligence
 - Symbolic AI and Fuzzy Logic
 - Expert Systems
 - Machine Learning
@@ -54,9 +54,9 @@ By the end of this course, students will be able to:
 - Generative AI
 - Agentic AI
 
-#### Differences Between Traditional and Generative AI
+> #### Differences Between Traditional and Generative AI
 
-#### Operational Applications of Generative AI
+> #### Operational Applications of Generative AI
 - Text Generation
 - Image Generation
 - Code Generation
@@ -69,7 +69,7 @@ By the end of this course, students will be able to:
 
 **Objective:** Deep understanding of how machines comprehend language and manage vector data.
 
-#### Why Do Machines Need Numbers?
+> #### Why Do Machines Need Numbers?
 - Text Vectorization & Embeddings
   - Classical Methods: Bag of Words, TF-IDF, One-hot encoding, n-grams
   - Word Embeddings: Word2Vec, GloVe, FastText
@@ -77,13 +77,13 @@ By the end of this course, students will be able to:
   - Contextual Embeddings: ELMo, BERT
   - Modern Tokenization Techniques: BPE, WordPiece, SentencePiece
 
-#### Vector Databases
+> #### Vector Databases
 - Concept of Semantic Space and Cosine Similarity
 - Differences Between RDBMS and Vector Databases
 - Approximate Nearest Neighbor Search Algorithms
 - Hands-on Introduction to ChromaDB
 
-#### LLM Challenges and Limitations
+> #### LLM Challenges and Limitations
 - Hallucinations and Their Causes
 - Context Window Limitations
 - Knowledge Cutoff and Lack of Real-time Awareness
@@ -99,7 +99,7 @@ By the end of this course, students will be able to:
 
 **Objective:** Moving beyond simple prompting to reasoning engineering in LLMs.
 
-#### Advanced Prompt Engineering and Reasoning
+> #### Advanced Prompt Engineering and Reasoning
 - Zero-shot, Few-shot Prompting
 - Chain of Thought (CoT): Forcing Step-by-Step Thinking
 - Tree of Thoughts (ToT) and Graph of Thoughts (GoT)
@@ -111,12 +111,12 @@ By the end of this course, students will be able to:
 
 **Objective:** Overcoming hallucination and LLM limitations by connecting to external data and structured knowledge.
 
-#### Fundamentals and Types of RAG (Retrieval-Augmented Generation)
+> #### Fundamentals and Types of RAG (Retrieval-Augmented Generation)
 - Chunking
 - CAG (Cache-Augmented Generation)
 - KAG (Knowledge-Augmented Generation)
 
-#### RAG System Evaluation and Optimization
+> #### RAG System Evaluation and Optimization
 - Evaluation Metrics: Faithfulness, Answer Relevancy, Context Relevancy
 - Retrieval Stage Optimization:
   - Reranking
@@ -129,15 +129,15 @@ By the end of this course, students will be able to:
 
 **Objective:** Personalizing foundation models for specific domains and tasks with minimal cost.
 
-#### Fine-Tuning Fundamentals
+> #### Fine-Tuning Fundamentals
 - Full Fine-Tuning vs. Parameter-Efficient Fine-Tuning (PEFT)
 - LoRA and Its Derivatives
 > #### Model Compression and Distillation
 - Knowledge Distillation: Teacher-Student Framework
 - Benefits: Reducing Model Size, Inference Latency, and Deployment Costs
 - Distillation vs. Quantization vs. Pruning (Brief Comparison)
-> - 
-#### Training Tools and Frameworks
+
+> #### Training Tools and Frameworks
 - Working with Hugging Face
 
 ---
@@ -146,22 +146,22 @@ By the end of this course, students will be able to:
 
 **Objective:** Transforming LLMs from "text generators" to "autonomous agents" capable of planning and using tools.
 
-#### Definitions and Conceptual Distinctions
+> #### Definitions and Conceptual Distinctions
 - Generative AI
 - AI Agent
 - Agentic AI
 
-#### AI Agent Architecture
+> #### AI Agent Architecture
 - Planning, Memory, and Tool Use
 - Model Context Protocol (MCP): An Open Standard for Connecting Agents to Tools and Data Sources
 - Tool Calling and Function Calling
 - ReAct, Plan-and-Execute
 
-#### Multi-Agent Systems (MAS)
+> #### Multi-Agent Systems (MAS)
 - Why Multi-Agent? (Task Division, Specialization, Hallucination Reduction)
 - Communication Patterns: Sequential, Hierarchical, Debate/Collaboration
 
-#### Memory Systems in Agents
+> #### Memory Systems in Agents
 - Short-term / Working Memory
 - Long-term Memory
 - Episodic, Semantic, and Procedural Memory
