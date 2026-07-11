@@ -1,11 +1,11 @@
 instructors:
-  - name: Dr. 
+  - name: Dr. Saeed Reza Kheradpisheh
     profile_pic: /_images/pp/p.png
   - name: Milad Vazan
     profile_pic: /_images/pp/profile.png
     webpage: https://miladai.ir
 teaching_assistants:
   - name: A
-    profile_pic: /_images/pp/potter.jpg
+    profile_pic: /_images/pp/p.jpg
   - name: B
-    profile_pic: /_images/pp/potter.jpg
+    profile_pic: /_images/pp/p.jpg
