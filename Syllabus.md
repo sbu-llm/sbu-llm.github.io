@@ -168,6 +168,75 @@ By the end of this course, students will be able to:
 
 ---
 
+### Part 7: Responsible AI, Ethics, and Safety *(Optional Section – If Time Permits)*
+
+> **Note to Students:** This section covers critical but advanced topics that will be taught if sufficient time remains in the semester. Even if not covered in detail during lectures, the materials, readings, and resources will be made available for self-study. Students are strongly encouraged to explore these topics independently as they are increasingly relevant in both industry and research.
+
+---
+
+**Objective:** Understanding the ethical challenges, safety concerns, and societal implications of deploying LLMs in real-world applications, and learning how to build AI systems that are aligned with human values.
+
+---
+
+#### AI Alignment and Value Alignment
+- The Alignment Problem: Why AI Systems Might Not Follow Human Intentions
+- Reward Hacking and Specification Gaming
+- Reinforcement Learning from Human Feedback (RLHF): Methodology and Workflow
+  - Preference Data Collection and Ranking
+  - Reward Modeling
+  - Proximal Policy Optimization (PPO) Fine-Tuning
+- Reinforcement Learning from AI Feedback (RLAIF): AI-as-a-Judge
+- Direct Preference Optimization (DPO): A Modern Alternative to RLHF
+
+#### Safety and Robustness
+- Harmful Content Generation: Hate Speech, Disinformation, and Dangerous Instructions
+- Jailbreaking and Prompt Injection Attacks
+  - Direct vs. Indirect Prompt Injection
+  - Token Smuggling and Base64 Encoding
+  - Role-Playing and Persona-Based Attacks
+- Adversarial Attacks on LLMs
+- Defensive Strategies: Input Filtering, Output Sanitization, and Constitutional AI
+
+#### Constitutional AI
+- The Concept of a "Constitution" for AI Systems
+- Self-Critique and Revision Mechanism
+- Supervised Learning Phase (Constitutional Training)
+- Reinforcement Learning Phase (Constitutional RLHF)
+- Comparison with Traditional RLHF: Rule-Based vs. Human-Based Supervision
+
+#### Privacy and Data Governance
+- Data Privacy in RAG Systems: Risks of Retrieving Sensitive Information
+- Memorization in LLMs: Extracting Training Data Through Inference
+- Differential Privacy in Language Models
+- Federated Learning for Collaborative Training Without Data Sharing
+- Techniques for Privacy Preservation:
+  - Anonymization and Redaction
+  - Synthetic Data Generation
+  - Access Control and Auditing
+
+#### Fairness and Bias
+- Types of Bias in AI Systems:
+  - Data Bias (Representation, Measurement, Historical)
+  - Algorithmic Bias (Amplification, Stereotyping)
+  - Interaction Bias (User Feedback Loops)
+- Measuring Fairness: Demographic Parity, Equalized Odds, Counterfactual Fairness
+- Bias Mitigation Strategies:
+  - Pre-Processing: Data Debiasing and Augmentation
+  - In-Processing: Adversarial Training and Fairness Constraints
+  - Post-Processing: Calibrated Output Adjustment
+- Case Studies: Gender and Racial Bias in Commercial LLMs
+
+#### Transparency, Explainability, and Interpretability
+- The Need for Explainability in High-Stakes Applications
+- Interpretability vs. Explainability: Distinctions and Trade-offs
+- Local vs. Global Explanations
+- Techniques for LLM Explainability:
+  - Attention Visualization and Saliency Mapping
+  - Feature Attribution Methods (LIME, SHAP)
+  - Concept-Based Explanations (CAVs)
+  - Natural Language Explanations (Chain of Thought as Explanation)
+
+
 ## Assessment
 
 | Assessment Component | Grade | Description |
