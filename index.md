@@ -1,6 +1,8 @@
 ---
 layout: home
 ---
+### این درس در سیستم بهستان با عنوان سیستم‌های خبر ثبت شده است. 
+
 ## **Structure of the course**
 - Meets Twice Weekly
   - **__, __ (00:00 - 00:00)**
