@@ -132,7 +132,11 @@ By the end of this course, students will be able to:
 #### Fine-Tuning Fundamentals
 - Full Fine-Tuning vs. Parameter-Efficient Fine-Tuning (PEFT)
 - LoRA and Its Derivatives
-
+> #### Model Compression and Distillation
+- Knowledge Distillation: Teacher-Student Framework
+- Benefits: Reducing Model Size, Inference Latency, and Deployment Costs
+- Distillation vs. Quantization vs. Pruning (Brief Comparison)
+> - 
 #### Training Tools and Frameworks
 - Working with Hugging Face
 
@@ -148,6 +152,10 @@ By the end of this course, students will be able to:
 - Agentic AI
 
 #### AI Agent Architecture
+- Planning, Memory, and Tool Use
+- Model Context Protocol (MCP): An Open Standard for Connecting Agents to Tools and Data Sources
+- Tool Calling and Function Calling
+- ReAct, Plan-and-Execute
 
 #### Multi-Agent Systems (MAS)
 - Why Multi-Agent? (Task Division, Specialization, Hallucination Reduction)
