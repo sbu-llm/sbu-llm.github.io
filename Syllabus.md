@@ -8,7 +8,7 @@ permalink: /Syllabus/
 
 **Level:** Undergraduate  
 **Prerequisites:** Python Programming, Basic Machine Learning Concepts  
-**Instructors:** Dr. _, _ 
+**Instructors:** Dr. Saeed Reza Kheradpisheh, Milad Vazan
 
 ---
 
