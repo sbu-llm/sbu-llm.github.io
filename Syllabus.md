@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /Syllabus/
 ---
 
-# Course Introduction: Expert Systems (Engineering for Large Language Models)
+# Expert Systems (Engineering for Large Language Models)
 
 **Level:** Undergraduate
 
