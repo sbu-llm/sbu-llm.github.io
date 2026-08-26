@@ -129,7 +129,7 @@ Discussion and dialogue about the course content with anyone is free and highly 
 
 ### Part 1: Evolution and Fundamentals of AI (2 Sessions)
 
-**Session 1: The Evolution of AI and Foundational Concepts** (Instructor: Dr.)
+**Session 1: The Evolution of AI and Foundational Concepts** (Instructor: Dr. Saeed Reza Kheradpisheh)
 
 - General course introduction and prerequisites
 - Review of history: from Symbolic AI and expert systems to machine learning and deep learning
@@ -138,7 +138,7 @@ Discussion and dialogue about the course content with anyone is free and highly 
 - Operational applications of Generative AI: text, image, code, video, audio generation, and multimodal systems
 - Introduction to Language Models
 
-**Session 2: Comprehensive Review of Neural Networks (Pre-requisite)** (Instructor: Dr.)
+**Session 2: Comprehensive Review of Neural Networks (Pre-requisite)** (Instructor: Dr. Saeed Reza Kheradpisheh)
 
 - Architecture: from Simple Perceptron to Multi-Layer Perceptron (MLP)
 - Activation Functions: Sigmoid, Tanh, ReLU, Leaky ReLU, GELU
@@ -151,7 +151,7 @@ Discussion and dialogue about the course content with anyone is free and highly 
 
 ### Part 2: Infrastructure and Foundations of Language Models (6 Sessions)
 
-**Session 3: Tokenization and Embedding**
+**Session 3: Tokenization and Embedding** (Instructor: Milad Vazan)
 
 - Why do machines need numbers? Converting text to numbers, importance of numerical representation
 - Classical Vectorization Methods: Bag of Words (BoW), TF-IDF, One-hot encoding, n-grams
@@ -161,27 +161,27 @@ Discussion and dialogue about the course content with anyone is free and highly 
 - Tokenization Best Practices and Implementation with Hugging Face
 - Concept of Distance in Vector Space: Cosine Similarity, Euclidean Distance
 
-**Session 4: Transformer Architecture (Part 1 - Attention)**
+**Session 4: Transformer Architecture (Part 1 - Attention)** (Instructor: Milad Vazan)
 
 - Problems with older sequential models (RNN, LSTM)
 - Self-Attention and Multi-Head Attention mechanisms
 - Mathematics behind Q, K, V (Query, Key, Value)
 - Attention Pathologies: Attention Sink, Attention Dilution, Other Attention Phenomena
 
-**Session 5: Transformer Architecture (Part 2 - Complete Structure)**
+**Session 5: Transformer Architecture (Part 2 - Complete Structure)** (Instructor: Milad Vazan)
 
 - Positional Encoding: Sinusoidal, Learned, Relative
 - Original Encoder-Decoder Transformer
 - Decoder-Only vs. Encoder-Decoder: BERT (Encoder), GPT (Decoder), T5 and BART (Encoder-Decoder)
 - Visualizing Attention for Explainability
 
-**Session 6: Prediction Heads and Modern Embeddings** (Instructor: Dr.)
+**Session 6: Prediction Heads and Modern Embeddings** (Instructor: Dr. Saeed Reza Kheradpisheh)
 
 - Prediction Heads: Language Modeling Head, Conditional Generation Head, Value Head
 - Limitations of Static Embeddings
 - Contextual Embeddings: ELMo, BERT as an Embedding, Extracting Embeddings from BERT
 
-**Session 7: Vector Databases + ChromaDB**
+**Session 7: Vector Databases + ChromaDB** (Instructor: Milad Vazan)
 
 - Why are RDBMSs inefficient for vector data?
 - Concept of Semantic Space
@@ -189,7 +189,7 @@ Discussion and dialogue about the course content with anyone is free and highly 
 - Practical Part: ChromaDB (Installation, Collections, Storing Embeddings, Similarity Queries)
 - Comparison of Vector Databases
 
-**Session 8: LLM Challenges and Limitations** (Instructor: Dr.)
+**Session 8: LLM Challenges and Limitations** (Instructor: Dr. Saeed Reza Kheradpisheh)
 
 - Hallucination: Types, Detection Methods, Roots
 - Context Window Limitation: Token limits, Solutions (Sliding Window, Positional Interpolation)
@@ -203,7 +203,7 @@ Discussion and dialogue about the course content with anyone is free and highly 
 
 ### Part 3: Reasoning (1 Session)
 
-**Session 9: Advanced Prompt Engineering**
+**Session 9: Advanced Prompt Engineering** (Instructor: Milad Vazan)
 
 - Basic Concepts: Importance of prompt writing, In-Context Learning, Zero-shot, Few-shot, Instruction-Following, Structured Output, Best Practices
 - Chain of Thought (CoT): Concept, Zero-shot CoT, Few-shot CoT, Numerical and logical examples
@@ -214,7 +214,7 @@ Discussion and dialogue about the course content with anyone is free and highly 
 
 ### Part 4: External Knowledge and RAG (5 Sessions)
 
-**Session 10: Fundamentals of RAG** (Instructor: Dr.)
+**Session 10: Fundamentals of RAG** (Instructor: Dr. Saeed Reza Kheradpisheh)
 
 - Why RAG? Parametric vs. Non-Parametric Knowledge, When to Use RAG vs. Fine-Tuning vs. Long Context
 - General RAG Architecture: Full Pipeline, Indexing, Retrieval, Generation
