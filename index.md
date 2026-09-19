@@ -2,7 +2,11 @@
 layout: home
 ---
 ### این درس در سامانه بهستان با عنوان **مبانی هوش محاسباتی** ارائه شده است
+## 📝 Homework Submission
+[ci.bitmath.ir](https://ci.bitmath.ir)
 
+## 📚 Course Notes (Lecture Materials)
+[ellm.bitmath.ir](https://ellm.bitmath.ir)
 ## **Structure of the course**
 - Meets Twice Weekly
   - **Sunday, Tuesday (13:30 - 15:00)**
